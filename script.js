@@ -1,4 +1,9 @@
 /* global TinyTurtle */ 
+/* global forward */ 
+/* global left */
+/* global right */ 
+/* global stamp */ 
+
 
 TinyTurtle.apply(window); 
 forward (35);
